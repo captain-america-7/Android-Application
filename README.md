@@ -8,7 +8,7 @@
 
 ### Number Plate Detection
 <img src="/ScreenShots/2.jpg" alt="Number Plate Detection" width="300"/>
-## Description
+Description
 This Android app leverages computer vision techniques for various functionalities, including currency conversion and number plate detection.
 
 ## Features
