@@ -4,7 +4,7 @@
 ## Screenshots
 
 ### Home Screen
-![Home Screen](/ScreenShots/home_screen.png)
+![Home Screen](/ScreenShots/1.jpg)
 
 ### Currency Converter
 ![Currency Converter](https://raw.githubusercontent.com/captain-america-7/Android-Application/main/ScreenShots/currency_converter.png)
