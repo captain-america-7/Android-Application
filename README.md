@@ -4,17 +4,10 @@
 ## Screenshots
 
 ### Home Screen
-![Home Screen](/ScreenShots/1.jpg)
-
-### Currency Converter
-![Currency Converter](https://raw.githubusercontent.com/captain-america-7/Android-Application/main/ScreenShots/currency_converter.png)
+<img src="/ScreenShots/1.jpg" alt="Home Screen" width="300"/>
 
 ### Number Plate Detection
-![Number Plate Detection](https://raw.githubusercontent.com/captain-america-7/Android-Application/main/ScreenShots/number_plate_detection.png)
-
-### Additional Features
-![Additional Features](https://raw.githubusercontent.com/captain-america-7/Android-Application/main/ScreenShots/additional_features.png)
-
+<img src="/ScreenShots/2.jpg" alt="Number Plate Detection" width="300"/>
 ## Description
 This Android app leverages computer vision techniques for various functionalities, including currency conversion and number plate detection.
 
